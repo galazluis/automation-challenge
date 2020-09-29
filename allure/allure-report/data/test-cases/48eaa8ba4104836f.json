@@ -1,0 +1,54 @@
+{
+  "uid" : "48eaa8ba4104836f",
+  "name" : "Users can log in using valid credentials",
+  "fullName" : "Login feature testing.Users can log in using valid credentials",
+  "historyId" : "7b04baab6fa1164291c60e6b87daf896",
+  "time" : {
+    "start" : 1601379313201,
+    "stop" : 1601379314103,
+    "duration" : 902
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "statusMessage" : "This test has been passed.",
+  "statusTrace" : "no error",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "undefined"
+  }, {
+    "name" : "suite",
+    "value" : "Login feature testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Login feature testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "Users can log in using valid credentials"
+  }, {
+    "name" : "package",
+    "value" : "Login feature testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "User Agent",
+    "value" : "Chrome 85.0.4183.121 / macOS 10.15.6"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "48eaa8ba4104836f.json",
+  "parameterValues" : [ "Chrome 85.0.4183.121 / macOS 10.15.6" ]
+}

@@ -1,0 +1,54 @@
+{
+  "uid" : "6d0e225619b380b2",
+  "name" : "Users cant' log in using a locked out account",
+  "fullName" : "Login feature testing.Users cant' log in using a locked out account",
+  "historyId" : "1c3ee649e3e11273db9ddf54ca49b1f4",
+  "time" : {
+    "start" : 1601379318018,
+    "stop" : 1601379318820,
+    "duration" : 802
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "statusMessage" : "This test has been passed.",
+  "statusTrace" : "no error",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "undefined"
+  }, {
+    "name" : "suite",
+    "value" : "Login feature testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Login feature testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "Users cant' log in using a locked out account"
+  }, {
+    "name" : "package",
+    "value" : "Login feature testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "User Agent",
+    "value" : "Chrome 85.0.4183.121 / macOS 10.15.6"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6d0e225619b380b2.json",
+  "parameterValues" : [ "Chrome 85.0.4183.121 / macOS 10.15.6" ]
+}

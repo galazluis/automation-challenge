@@ -1,0 +1,27 @@
+{
+  "name": "wizeline_challenge",
+  "version": "1.0.0",
+  "description": "Automation Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test-login-chrome": "testcafe chrome ./tests/Login.test.js",
+    "test-cart-chrome": "testcafe chrome ./tests/ShoppingCart.test.js",
+    "test-checkout-chrome": "testcafe chrome ./tests/Checkout.test.js",
+    "test-all-chrome-s": "testcafe chrome ./tests",
+    "test-all-chrome-a": "testcafe chrome ./tests --reporter allure",
+    "test-all-multi-s": "testcafe chrome,firefox,safari ./tests",
+    "test-all-multi-a": "testcafe chrome,firefox,safari ./tests --reporter allure",
+    "test-all-multi-headless-s": "testcafe chrome:headless,firefox:headless ./tests",
+    "test-all-multi-headless-a": "testcafe chrome:headless,firefox:headless ./tests --reporter allure"
+  },
+  "keywords": [
+    "automation"
+  ],
+  "author": "lgalaz",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "testcafe": "^1.9.3",
+    "testcafe-reporter-allure": "^1.0.5"
+  }
+}

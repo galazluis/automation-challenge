@@ -1,0 +1,54 @@
+{
+  "uid" : "8030e7b9c04c3111",
+  "name" : "Users can't log in without entering a username and a password",
+  "fullName" : "Login feature testing.Users can't log in without entering a username and a password",
+  "historyId" : "db566b95678af74c7823a84df4df5e8",
+  "time" : {
+    "start" : 1601379313591,
+    "stop" : 1601379313974,
+    "duration" : 383
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "statusMessage" : "This test has been passed.",
+  "statusTrace" : "no error",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "undefined"
+  }, {
+    "name" : "suite",
+    "value" : "Login feature testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Login feature testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "Users can't log in without entering a username and a password"
+  }, {
+    "name" : "package",
+    "value" : "Login feature testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "User Agent",
+    "value" : "Chrome 85.0.4183.121 / macOS 10.15.6"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8030e7b9c04c3111.json",
+  "parameterValues" : [ "Chrome 85.0.4183.121 / macOS 10.15.6" ]
+}

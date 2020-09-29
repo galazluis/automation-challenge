@@ -1,0 +1,141 @@
+[ {
+  "uid" : "b60f8c8274cd4c4d",
+  "name" : "Users can add multiple items to their Shopping Cart",
+  "time" : {
+    "start" : 1601379324770,
+    "stop" : 1601379326787,
+    "duration" : 2017
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "390eaf3a14f0b85e",
+  "name" : "Users can navigate to the Shopping Cart page",
+  "time" : {
+    "start" : 1601379321181,
+    "stop" : 1601379322384,
+    "duration" : 1203
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7e935f06d7f9fc32",
+  "name" : "Users can't log in using an invalid password",
+  "time" : {
+    "start" : 1601379317210,
+    "stop" : 1601379318012,
+    "duration" : 802
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6d0e225619b380b2",
+  "name" : "Users cant' log in using a locked out account",
+  "time" : {
+    "start" : 1601379318018,
+    "stop" : 1601379318820,
+    "duration" : 802
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d68d0376a6a3f446",
+  "name" : "Users can't log in without entering a password",
+  "time" : {
+    "start" : 1601379315607,
+    "stop" : 1601379316213,
+    "duration" : 606
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "48eaa8ba4104836f",
+  "name" : "Users can log in using valid credentials",
+  "time" : {
+    "start" : 1601379313201,
+    "stop" : 1601379314103,
+    "duration" : 902
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e0f4cd6af1bfdac6",
+  "name" : "Users can complete a purchase after entering their personal information",
+  "time" : {
+    "start" : 1601379312291,
+    "stop" : 1601379316112,
+    "duration" : 3821
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "616b73b6bf166d41",
+  "name" : "Users can add a single item to their Shopping Cart",
+  "time" : {
+    "start" : 1601379322746,
+    "stop" : 1601379324305,
+    "duration" : 1559
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ea5f7cdf717f5c4e",
+  "name" : "Users can't log in using an invalid username",
+  "time" : {
+    "start" : 1601379316401,
+    "stop" : 1601379317187,
+    "duration" : 786
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d9fda6f145d6117e",
+  "name" : "Users can't log in without entering a username",
+  "time" : {
+    "start" : 1601379314994,
+    "stop" : 1601379315616,
+    "duration" : 622
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8030e7b9c04c3111",
+  "name" : "Users can't log in without entering a username and a password",
+  "time" : {
+    "start" : 1601379313591,
+    "stop" : 1601379313974,
+    "duration" : 383
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cfa9966071b6e6e0",
+  "name" : "Users can log out using the sidebar menu",
+  "time" : {
+    "start" : 1601379319971,
+    "stop" : 1601379321917,
+    "duration" : 1946
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "44d860cf0773974e",
+  "name" : "Users can't navigate to the Checkout Page if their personal information is incomplete",
+  "time" : {
+    "start" : 1601379308462,
+    "stop" : 1601379312754,
+    "duration" : 4292
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "855482b0e37d687e",
+  "name" : "Users can't log in using invalid credentials",
+  "time" : {
+    "start" : 1601379314363,
+    "stop" : 1601379315128,
+    "duration" : 765
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

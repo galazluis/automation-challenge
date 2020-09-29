@@ -1,0 +1,54 @@
+{
+  "uid" : "b60f8c8274cd4c4d",
+  "name" : "Users can add multiple items to their Shopping Cart",
+  "fullName" : "Shopping Cart flow testing.Users can add multiple items to their Shopping Cart",
+  "historyId" : "b76a5096e26f960d3b5627cacc502155",
+  "time" : {
+    "start" : 1601379324770,
+    "stop" : 1601379326787,
+    "duration" : 2017
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "statusMessage" : "This test has been passed.",
+  "statusTrace" : "no error",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "undefined"
+  }, {
+    "name" : "suite",
+    "value" : "Shopping Cart flow testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Shopping Cart flow testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "Users can add multiple items to their Shopping Cart"
+  }, {
+    "name" : "package",
+    "value" : "Shopping Cart flow testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "User Agent",
+    "value" : "Chrome 85.0.4183.121 / macOS 10.15.6"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b60f8c8274cd4c4d.json",
+  "parameterValues" : [ "Chrome 85.0.4183.121 / macOS 10.15.6" ]
+}

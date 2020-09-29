@@ -1,0 +1,54 @@
+{
+  "uid" : "cfa9966071b6e6e0",
+  "name" : "Users can log out using the sidebar menu",
+  "fullName" : "Login feature testing.Users can log out using the sidebar menu",
+  "historyId" : "95a6746c27e0f4dc0033685e0bac3389",
+  "time" : {
+    "start" : 1601379319971,
+    "stop" : 1601379321917,
+    "duration" : 1946
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "statusMessage" : "This test has been passed.",
+  "statusTrace" : "no error",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "undefined"
+  }, {
+    "name" : "suite",
+    "value" : "Login feature testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Login feature testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "Users can log out using the sidebar menu"
+  }, {
+    "name" : "package",
+    "value" : "Login feature testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "User Agent",
+    "value" : "Chrome 85.0.4183.121 / macOS 10.15.6"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cfa9966071b6e6e0.json",
+  "parameterValues" : [ "Chrome 85.0.4183.121 / macOS 10.15.6" ]
+}

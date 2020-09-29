@@ -1,0 +1,199 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "Checkout flow testing",
+    "children" : [ {
+      "name" : "Users can't navigate to the Checkout Page if their personal information is incomplete",
+      "uid" : "44d860cf0773974e",
+      "parentUid" : "674ec837c218b4ab0b0b23c593692c9d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601379308462,
+        "stop" : 1601379312754,
+        "duration" : 4292
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome 85.0.4183.121 / macOS 10.15.6" ]
+    }, {
+      "name" : "Users can complete a purchase after entering their personal information",
+      "uid" : "e0f4cd6af1bfdac6",
+      "parentUid" : "674ec837c218b4ab0b0b23c593692c9d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601379312291,
+        "stop" : 1601379316112,
+        "duration" : 3821
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome 85.0.4183.121 / macOS 10.15.6" ]
+    } ],
+    "uid" : "674ec837c218b4ab0b0b23c593692c9d"
+  }, {
+    "name" : "Login feature testing",
+    "children" : [ {
+      "name" : "Users can log in using valid credentials",
+      "uid" : "48eaa8ba4104836f",
+      "parentUid" : "cec53e5107243f9b9a24f31bea29d1ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601379313201,
+        "stop" : 1601379314103,
+        "duration" : 902
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome 85.0.4183.121 / macOS 10.15.6" ]
+    }, {
+      "name" : "Users can't log in without entering a username and a password",
+      "uid" : "8030e7b9c04c3111",
+      "parentUid" : "cec53e5107243f9b9a24f31bea29d1ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601379313591,
+        "stop" : 1601379313974,
+        "duration" : 383
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome 85.0.4183.121 / macOS 10.15.6" ]
+    }, {
+      "name" : "Users can't log in using invalid credentials",
+      "uid" : "855482b0e37d687e",
+      "parentUid" : "cec53e5107243f9b9a24f31bea29d1ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601379314363,
+        "stop" : 1601379315128,
+        "duration" : 765
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome 85.0.4183.121 / macOS 10.15.6" ]
+    }, {
+      "name" : "Users can't log in without entering a username",
+      "uid" : "d9fda6f145d6117e",
+      "parentUid" : "cec53e5107243f9b9a24f31bea29d1ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601379314994,
+        "stop" : 1601379315616,
+        "duration" : 622
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome 85.0.4183.121 / macOS 10.15.6" ]
+    }, {
+      "name" : "Users can't log in without entering a password",
+      "uid" : "d68d0376a6a3f446",
+      "parentUid" : "cec53e5107243f9b9a24f31bea29d1ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601379315607,
+        "stop" : 1601379316213,
+        "duration" : 606
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome 85.0.4183.121 / macOS 10.15.6" ]
+    }, {
+      "name" : "Users can't log in using an invalid username",
+      "uid" : "ea5f7cdf717f5c4e",
+      "parentUid" : "cec53e5107243f9b9a24f31bea29d1ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601379316401,
+        "stop" : 1601379317187,
+        "duration" : 786
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome 85.0.4183.121 / macOS 10.15.6" ]
+    }, {
+      "name" : "Users can't log in using an invalid password",
+      "uid" : "7e935f06d7f9fc32",
+      "parentUid" : "cec53e5107243f9b9a24f31bea29d1ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601379317210,
+        "stop" : 1601379318012,
+        "duration" : 802
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome 85.0.4183.121 / macOS 10.15.6" ]
+    }, {
+      "name" : "Users cant' log in using a locked out account",
+      "uid" : "6d0e225619b380b2",
+      "parentUid" : "cec53e5107243f9b9a24f31bea29d1ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601379318018,
+        "stop" : 1601379318820,
+        "duration" : 802
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome 85.0.4183.121 / macOS 10.15.6" ]
+    }, {
+      "name" : "Users can log out using the sidebar menu",
+      "uid" : "cfa9966071b6e6e0",
+      "parentUid" : "cec53e5107243f9b9a24f31bea29d1ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601379319971,
+        "stop" : 1601379321917,
+        "duration" : 1946
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome 85.0.4183.121 / macOS 10.15.6" ]
+    } ],
+    "uid" : "cec53e5107243f9b9a24f31bea29d1ef"
+  }, {
+    "name" : "Shopping Cart flow testing",
+    "children" : [ {
+      "name" : "Users can navigate to the Shopping Cart page",
+      "uid" : "390eaf3a14f0b85e",
+      "parentUid" : "4e955ea5bff2d3865f2b26f70bb8a5ca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601379321181,
+        "stop" : 1601379322384,
+        "duration" : 1203
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome 85.0.4183.121 / macOS 10.15.6" ]
+    }, {
+      "name" : "Users can add a single item to their Shopping Cart",
+      "uid" : "616b73b6bf166d41",
+      "parentUid" : "4e955ea5bff2d3865f2b26f70bb8a5ca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601379322746,
+        "stop" : 1601379324305,
+        "duration" : 1559
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome 85.0.4183.121 / macOS 10.15.6" ]
+    }, {
+      "name" : "Users can add multiple items to their Shopping Cart",
+      "uid" : "b60f8c8274cd4c4d",
+      "parentUid" : "4e955ea5bff2d3865f2b26f70bb8a5ca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601379324770,
+        "stop" : 1601379326787,
+        "duration" : 2017
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome 85.0.4183.121 / macOS 10.15.6" ]
+    } ],
+    "uid" : "4e955ea5bff2d3865f2b26f70bb8a5ca"
+  } ],
+  "name" : "suites"
+}

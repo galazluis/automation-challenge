@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1601379321181' stop='1601379321181'>
+    <name>Shopping Cart flow testing</name>
+    <title>Shopping Cart flow testing</title>
+    <test-cases>
+        <test-case start='1601379321181' status='passed' stop='1601379322384'>
+            <name>Users can navigate to the Shopping Cart page</name>
+            <title>Users can navigate to the Shopping Cart page</title>
+            <labels>
+                <label name='severity' value='undefined'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='User Agent' value='Chrome 85.0.4183.121 / macOS 10.15.6'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test has been passed.</message>
+                <stack-trace>no error</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

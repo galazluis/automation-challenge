@@ -1,0 +1,54 @@
+{
+  "uid" : "e0f4cd6af1bfdac6",
+  "name" : "Users can complete a purchase after entering their personal information",
+  "fullName" : "Checkout flow testing.Users can complete a purchase after entering their personal information",
+  "historyId" : "970cbe007d530e6176dc01e90c4ca03d",
+  "time" : {
+    "start" : 1601379312291,
+    "stop" : 1601379316112,
+    "duration" : 3821
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "statusMessage" : "This test has been passed.",
+  "statusTrace" : "no error",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "undefined"
+  }, {
+    "name" : "suite",
+    "value" : "Checkout flow testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Checkout flow testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "Users can complete a purchase after entering their personal information"
+  }, {
+    "name" : "package",
+    "value" : "Checkout flow testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "User Agent",
+    "value" : "Chrome 85.0.4183.121 / macOS 10.15.6"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e0f4cd6af1bfdac6.json",
+  "parameterValues" : [ "Chrome 85.0.4183.121 / macOS 10.15.6" ]
+}

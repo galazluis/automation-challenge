@@ -1,0 +1,54 @@
+{
+  "uid" : "616b73b6bf166d41",
+  "name" : "Users can add a single item to their Shopping Cart",
+  "fullName" : "Shopping Cart flow testing.Users can add a single item to their Shopping Cart",
+  "historyId" : "62bae130f1fbe70d2d48be1d1cd832c5",
+  "time" : {
+    "start" : 1601379322746,
+    "stop" : 1601379324305,
+    "duration" : 1559
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "statusMessage" : "This test has been passed.",
+  "statusTrace" : "no error",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "undefined"
+  }, {
+    "name" : "suite",
+    "value" : "Shopping Cart flow testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Shopping Cart flow testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "Users can add a single item to their Shopping Cart"
+  }, {
+    "name" : "package",
+    "value" : "Shopping Cart flow testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "User Agent",
+    "value" : "Chrome 85.0.4183.121 / macOS 10.15.6"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "616b73b6bf166d41.json",
+  "parameterValues" : [ "Chrome 85.0.4183.121 / macOS 10.15.6" ]
+}

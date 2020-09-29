@@ -1,0 +1,54 @@
+{
+  "uid" : "44d860cf0773974e",
+  "name" : "Users can't navigate to the Checkout Page if their personal information is incomplete",
+  "fullName" : "Checkout flow testing.Users can't navigate to the Checkout Page if their personal information is incomplete",
+  "historyId" : "f55c86901de38b9e8825fc9e455fe1f9",
+  "time" : {
+    "start" : 1601379308462,
+    "stop" : 1601379312754,
+    "duration" : 4292
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "statusMessage" : "This test has been passed.",
+  "statusTrace" : "no error",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "undefined"
+  }, {
+    "name" : "suite",
+    "value" : "Checkout flow testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Checkout flow testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "Users can't navigate to the Checkout Page if their personal information is incomplete"
+  }, {
+    "name" : "package",
+    "value" : "Checkout flow testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "User Agent",
+    "value" : "Chrome 85.0.4183.121 / macOS 10.15.6"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "44d860cf0773974e.json",
+  "parameterValues" : [ "Chrome 85.0.4183.121 / macOS 10.15.6" ]
+}

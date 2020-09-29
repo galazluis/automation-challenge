@@ -1,0 +1,54 @@
+{
+  "uid" : "390eaf3a14f0b85e",
+  "name" : "Users can navigate to the Shopping Cart page",
+  "fullName" : "Shopping Cart flow testing.Users can navigate to the Shopping Cart page",
+  "historyId" : "9d7f93a4375f79ede141a90a7e82819e",
+  "time" : {
+    "start" : 1601379321181,
+    "stop" : 1601379322384,
+    "duration" : 1203
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "statusMessage" : "This test has been passed.",
+  "statusTrace" : "no error",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "undefined"
+  }, {
+    "name" : "suite",
+    "value" : "Shopping Cart flow testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Shopping Cart flow testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "Users can navigate to the Shopping Cart page"
+  }, {
+    "name" : "package",
+    "value" : "Shopping Cart flow testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "User Agent",
+    "value" : "Chrome 85.0.4183.121 / macOS 10.15.6"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "390eaf3a14f0b85e.json",
+  "parameterValues" : [ "Chrome 85.0.4183.121 / macOS 10.15.6" ]
+}
